@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+}
+.aboutMore{
+    flex-direction: column;
+}
+.services{
+    flex-direction: column;
+}
+.servicesList{
+    flex-direction: column;
+}
